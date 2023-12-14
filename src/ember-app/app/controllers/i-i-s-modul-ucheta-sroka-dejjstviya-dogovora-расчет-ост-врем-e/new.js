@@ -1,0 +1,4 @@
+import IISModul_ucheta_sroka_dejjstviya_dogovoraРасчетОстВремEController from '../i-i-s-modul-ucheta-sroka-dejjstviya-dogovora-расчет-ост-врем-e';
+
+var IISModul_ucheta_sroka_dejjstviya_dogovoraРасчетОстВремENewController = IISModul_ucheta_sroka_dejjstviya_dogovoraРасчетОстВремEController;
+export default IISModul_ucheta_sroka_dejjstviya_dogovoraРасчетОстВремENewController;

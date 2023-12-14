@@ -1,0 +1,9 @@
+﻿{
+  "nameSpace": "IIS.Modul_ucheta_sroka_dejjstviya_dogovora",
+  "className": "Услуга",
+  "enumObjects": {
+    "ПомЗакрМес": "",
+    "РешУстнВопр": "",
+    "ПомПровДок": ""
+  }
+}

@@ -1,0 +1,4 @@
+import IISModul_ucheta_sroka_dejjstviya_dogovoraДоговорEController from '../i-i-s-modul-ucheta-sroka-dejjstviya-dogovora-договор-e';
+
+var IISModul_ucheta_sroka_dejjstviya_dogovoraДоговорENewController = IISModul_ucheta_sroka_dejjstviya_dogovoraДоговорEController;
+export default IISModul_ucheta_sroka_dejjstviya_dogovoraДоговорENewController;

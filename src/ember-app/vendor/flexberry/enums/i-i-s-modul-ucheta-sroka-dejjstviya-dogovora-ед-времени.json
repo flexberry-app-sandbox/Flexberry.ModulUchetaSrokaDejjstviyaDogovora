@@ -1,0 +1,10 @@
+﻿{
+  "nameSpace": "IIS.Modul_ucheta_sroka_dejjstviya_dogovora",
+  "className": "ЕдВремени",
+  "enumObjects": {
+    "Год": "",
+    "Месяц": "",
+    "День": "",
+    "Час": ""
+  }
+}
